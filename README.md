@@ -1,9 +1,12 @@
 # Understanding Job Scenario Across the Globe
-/n Platform Used: Observable HQ /n
-/n Data Visualisation /n
+
+Platform Used: Observable HQ
+
+Data Visualisation
+
 Link to the main article - https://observablehq.com/embed/@work-mode-ws/project-1-attempt-2-final-submission-alka_kumari?cell=*)
 
-Introduction: The purpose of this research is to learn more about the Job scenario around the world, especially the trend between the Developed countries and Developing Countries.
+Introduction: The purpose of this research is to learn more about the Job scenario around the world, especially the trend between Developed countries and Developing Countries.
 
 About the Dataset: The dataset contains the job scenarios and different variables affecting these scenarios across developed and developing countries. The timeline being compared in this study is a decade long between the Year 2007 to Year 2016 (10 years). The data has been collected from The World Bank Databases on the topic of Jobs.
 
