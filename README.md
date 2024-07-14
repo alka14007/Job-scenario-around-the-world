@@ -7,7 +7,7 @@ About the Dataset: The dataset contains the job scenarios and different variable
 
 Which countries are being examined in this dataset? Here, the intent is to compare the job scenarios between Developed countries vs Developing countries using economic indicators such as unemployment rates, labor force participation, GDP growth, etc. The data represents the developed countries like Switzerland, Norway, Iceland, The United Kingdom, and The United States as well as developing countries like India, Bangladesh, China, Vietnam, and Ghana.
 
-#Certain Visualisation images from the main article:
+# Certain Visualisation images from the main article:
 
 ![image](https://github.com/user-attachments/assets/69e682b7-b3f9-4be6-864f-a111aa9c7a7d)
 
