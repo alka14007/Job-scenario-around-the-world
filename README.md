@@ -1,6 +1,6 @@
 # Understanding Job Scenario Across the Globe
-Platform Used: Observable HQ /n
-Data Visualisation
+/n Platform Used: Observable HQ /n
+/n Data Visualisation /n
 Link to the main article - https://observablehq.com/embed/@work-mode-ws/project-1-attempt-2-final-submission-alka_kumari?cell=*)
 
 Introduction: The purpose of this research is to learn more about the Job scenario around the world, especially the trend between the Developed countries and Developing Countries.
